@@ -56,4 +56,4 @@ tidy[,70] = NULL
 tidy[,69] = NULL
 
 # Export tidy data set to tab delimited text file
-write.table(tidy, "tidy.txt", sep="\t")
+write.table(tidy, "tidy.txt", row.name=FALSE, sep="\t")
