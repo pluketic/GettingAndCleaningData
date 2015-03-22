@@ -22,7 +22,6 @@ features[,2] = gsub('-mean', 'Mean', features[,2])
 features[,2] = gsub('-std', 'Std', features[,2])
 features[,2] = gsub('[-()]', '', features[,2])
 
-
 # Shorten features table to the list of variables required
 features <- features[ColsNeeded,]
 
