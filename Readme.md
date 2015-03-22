@@ -14,7 +14,7 @@ Testing and training datasets containing the features are not labeled and can be
 
 1. The UCI HAR Dataset must be downloaded and extracted into “Data” folder within working directory
 
-Execution path:
+###### Execution path:
 
 1. Merges the training and the test sets to create one data set.
 
