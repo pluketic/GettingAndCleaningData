@@ -2,7 +2,7 @@
 
 #### Introduction
 
-This repository contains exercise for the course project for "Getting and Cleaning data" course, part of the Data Science specialization.
+This repository contains exercise for the course project of "Getting and Cleaning data" course, part of the Data Science specialization.
 
 #### About the raw data
 
